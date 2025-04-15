@@ -34,7 +34,16 @@ A multi-page social media website built using HTML, CSS, JavaScript, and Bootstr
 
 ## 📁 Project Structure
 
-├── index.html # Main landing page ├── postDetails.html # Detailed view of a single post ├── profile.html # User profile page ├── styles/ │ └── style.css # Custom CSS styles ├── scripts/ │ ├── main.js # Main JavaScript file │ └── api.js # API interaction logic └── images/ # Image assets
+    ├── index.html           # Main landing page
+    ├── postDetails.html     # Detailed view of a single post
+    ├── profile.html         # User profile page
+    ├── styles/
+    │   └── style.css        # Custom CSS styles
+    ├── scripts/
+    │   ├── main.js          # Main JavaScript file
+    │   └── api.js           # API interaction logic
+    └── images/              # Image assets
+
 
 
 
